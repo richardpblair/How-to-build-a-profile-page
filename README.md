@@ -9,7 +9,7 @@ As someone new to the IT field, I learned pretty quickly that certifications are
 
 The result is a live, public portfolio site that proves I can build things, break things, fix things, and document the process without setting anything on fire.
 
----
+<br>
 
 ## Objectives
 - Create a professional, publicly accessible portfolio website
@@ -22,7 +22,7 @@ The result is a live, public portfolio site that proves I can build things, brea
   - Git and version control
 - Build something I can confidently show to employers without saying “please ignore that part”
 
----
+<br>
 
 ## Tools & Technologies Used
 - **GitHub** – version control and project hosting
@@ -32,7 +32,7 @@ The result is a live, public portfolio site that proves I can build things, brea
 - **Git** – because “undo” only works so many times
 - **Online documentation, tutorials, and AI assistance** – for when I stared at the screen and whispered “why?”
 
----
+<br>
 
 ## Project Steps
 
@@ -45,7 +45,7 @@ This step was important because GitHub would be doing double duty as:
 
 Also, GitHub does not care about your feelings — but it *does* reward consistency.
 
----
+<br>
 
 ### Step 2: Create the Portfolio Repository
 To use GitHub Pages, the repository name must follow a very specific naming convention:
@@ -57,7 +57,7 @@ This is not a suggestion. This is a rule. GitHub Pages is very polite, but very 
 
 I initialized the repository with a README file and confirmed everything was created successfully.
 
----
+<br>
 
 ### Step 3: Enable GitHub Pages
 Inside the repository settings, I navigated to:
@@ -70,7 +70,7 @@ Inside the repository settings, I navigated to:
 
 After a short wait (and at least one refresh), GitHub deployed the site and made it publicly accessible. No servers were harmed in the process.
 
----
+<br>
 
 ### Step 4: Build the Website Using a Professional Template
 Rather than starting from a completely blank page, I used the **MyPage template from BootstrapMade** as a starting point.
@@ -88,7 +88,7 @@ All changes were made locally using VS Code and tracked with Git commits before 
 
 This step gave me hands-on experience working with an existing codebase — something you do constantly in real IT and development roles.
 
----
+<br>
 
 ## Challenges & Lessons Learned
 - One missing semicolon can ruin your entire afternoon
@@ -99,7 +99,7 @@ This step gave me hands-on experience working with an existing codebase — some
 
 I am not a web development expert — but I now understand how websites are structured, modified, and deployed without panic.
 
----
+<br>
 
 ## Final Outcome
 - A live GitHub Pages portfolio website
@@ -109,7 +109,7 @@ I am not a web development expert — but I now understand how websites are stru
 
 Most importantly, this project allows me to **show my work**, not just talk about it.
 
----
+<br>
 
 ## Next Steps
 - Add additional projects and lab write-ups
@@ -117,7 +117,7 @@ Most importantly, this project allows me to **show my work**, not just talk abou
 - Include screenshots, diagrams, and technical explanations
 - Continue breaking things safely and fixing them faster
 
----
+<br>
 
 ## Why This Project Matters
 This project demonstrates:
