@@ -45,6 +45,9 @@ This step was important because GitHub would be doing double duty as:
 
 Also, GitHub does not care about your feelings — but it *does* reward consistency.
 
+<img src="images/github-account.png" alt="Github Homepage" width="800">
+
+
 <br>
 
 ### Step 2: Create the Portfolio Repository
@@ -57,16 +60,33 @@ This is not a suggestion. This is a rule. GitHub Pages is very polite, but very 
 
 I initialized the repository with a README file and confirmed everything was created successfully.
 
+<img src="images/repo.png" alt="Github Homepage" width="800">
+
 <br>
 
 ### Step 3: Enable GitHub Pages
 Inside the repository settings, I navigated to:
 
 - **Settings → Pages**
+
+<img src="images/settings.png" alt="Github Homepage" width="800">
+
+<br>
+
+<img src="images/pages.png" alt="Github Homepage" width="800">
+
+<br>
+
 - Set the source to **Deploy from a branch**
 - Selected:
   - Branch: `main`
 - Saved the configuration
+
+<br>
+
+<img src="images/pages setings.png" alt="Github Homepage" width="800">
+
+<br>
 
 After a short wait (and at least one refresh), GitHub deployed the site and made it publicly accessible. No servers were harmed in the process.
 
@@ -74,6 +94,12 @@ After a short wait (and at least one refresh), GitHub deployed the site and made
 
 ### Step 4: Build the Website Using a Professional Template
 Rather than starting from a completely blank page, I used the **MyPage template from BootstrapMade** as a starting point.
+
+<br>
+
+<img src="images/bootstrap.png" alt="Github Homepage" width="800">
+
+<br>
 
 Using a pre-built template reflects real-world environments, where you’re often handed existing code and told, “Cool, now make it better.”
 
@@ -87,6 +113,16 @@ During this phase, I:
 All changes were made locally using VS Code and tracked with Git commits before being pushed to GitHub. Each push automatically redeployed the site using GitHub Pages, which made testing changes fast and mildly addictive.
 
 This step gave me hands-on experience working with an existing codebase — something you do constantly in real IT and development roles.
+
+<br>
+
+<img src="images/vscode.png" alt="Github Homepage" width="800">
+
+<br>
+
+**Helpful = Add the following extensions to view your site as you build it (Found out about this towaard the end)**
+* Live Peview
+* Live Server
 
 <br>
 
